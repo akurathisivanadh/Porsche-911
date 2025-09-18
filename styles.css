@@ -439,7 +439,7 @@ html {
 
 .swipeable-slide img {
     max-width: 100%;
-    max-height: 200%;
+    max-height: 100%;
     object-fit: contain;
     border-radius: 10px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
@@ -542,7 +542,7 @@ html {
 
 .image-container {
     flex: 1;
-    padding: 20px;
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -767,5 +767,6 @@ html {
     max-width: 800px;
     margin: 0 auto;
 }
+
 
 
