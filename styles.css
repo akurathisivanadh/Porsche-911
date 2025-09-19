@@ -512,13 +512,14 @@ html {
     align-items: center;
     scroll-snap-align: start;
     overflow: hidden;
-    background-color: #ffffff;
+    background-color: #808080; /* Gray color */
     color: #333;
 }
 
 .full-page-section:nth-of-type(even) {
-    background-color: #f7f7f7;
+    background-color: #b0b0b0; /* Lighter gray */
 }
+
 
 /* Adjust the image size for the details-content-container */
 .details-content-container .image-container img {
@@ -767,6 +768,7 @@ html {
     max-width: 800px;
     margin: 0 auto;
 }
+
 
 
 
